@@ -1,0 +1,7 @@
+/* Here is your custom css styles. */
+*{
+    cursor: url("/medias/imgs/Arrow.svg"),auto!important;
+}
+:active{
+    cursor: url("/medias/imgs/Arrow.svg"),auto!important;
+}
