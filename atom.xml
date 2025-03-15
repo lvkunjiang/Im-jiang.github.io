@@ -6,7 +6,7 @@
   <link href="http://kjiang.com/atom.xml" rel="self"/>
   
   <link href="http://kjiang.com/"/>
-  <updated>2025-03-11T07:48:34.536Z</updated>
+  <updated>2025-03-15T04:04:02.727Z</updated>
   <id>http://kjiang.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>01.Shell脚本基础与变量</title>
+    <link href="http://kjiang.com/posts/1272317985.html"/>
+    <id>http://kjiang.com/posts/1272317985.html</id>
+    <published>2025-03-15T04:03:27.000Z</published>
+    <updated>2025-03-15T04:04:02.727Z</updated>
+    
+    
+    
+    
+    <category term="linux" scheme="http://kjiang.com/categories/linux/"/>
+    
+    <category term="shell" scheme="http://kjiang.com/categories/linux/shell/"/>
+    
+    
+    <category term="linux" scheme="http://kjiang.com/tags/linux/"/>
+    
+    <category term="shell" scheme="http://kjiang.com/tags/shell/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello-World2</title>
